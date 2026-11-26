@@ -1,0 +1,1 @@
+The code in front of you implements a well-known algorithm or solves a problem. The function names should make the algorithm or solved problem clear. However, there’s a mistake in the code. Your goal is to find this mistake and correct it. You should only make a small correction, rather than rewrite the entire function. 
